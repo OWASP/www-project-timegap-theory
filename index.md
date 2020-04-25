@@ -29,4 +29,4 @@ This can be your name - We need your help to test the software and review the ha
 
 ## Licensing
 
-OWASP/TimeGap-Theory is licensed under the Apache License 2.0
+OWASP TimeGap Theory is licensed under the Apache License 2.0
