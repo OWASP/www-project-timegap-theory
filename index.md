@@ -22,10 +22,15 @@ OWASP TimeGap Theory is built with PHP, MySQL, Docker and Heroku.It is built as 
 ## Contributors
 
 In order of appearance:
+
 Abhi M Balakrishnan - Author
+
 Akhi M balakrishnan - Illustration for the hand-guide 
+
 Adarsh Girijan - Coverpage design for the hand-guide
+
 This can be your name - We need your help to test the software and review the hand-guide.
+
 
 ## Licensing
 
