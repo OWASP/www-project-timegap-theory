@@ -34,3 +34,5 @@ In order of appearance:
 ## Licensing
 
 OWASP TimeGap Theory is licensed under the Apache License 2.0
+
+For more details, please visit the official website at https://timegaptheory.com/
