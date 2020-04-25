@@ -3,7 +3,7 @@ title: Features
 layout:  null
 tab: true
 order: 1
-tags: timegap theory
+tags: timegaptheory
 ---
 
 ## Features
