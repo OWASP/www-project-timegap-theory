@@ -8,7 +8,9 @@ type: code
 pitch: An auto-scoring capture-the-flag game focusing on TOCTOU vulnerabilities
 
 ---
-<img src="assets/images/favicon.png" alt="OWASP-TimeGap-Theory-logo" height="50"/>
+
+[<img src="assets/images/favicon.png" alt="OWASP-TimeGap-Theory-logo" height="50"/> OWASP TimeGap Theory](https://timegaptheory.com/)
+
 
 OWASP TimeGap Theory is an auto-scoring capture-the-flag game that focuses entirely on TOCTOU vulnerabilities. There are seven unique challenges to be solved in TimeGap Theory. All of them can be solved just by using browser dev tools.
 
