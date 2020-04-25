@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP TimeGap Theory
-tags: php,mysql,ctf,toctou
+tags: timegaptheory
 level: 4
 type: code
 pitch: An auto-scoring capture-the-flag game focusing on TOCTOU vulnerabilities
